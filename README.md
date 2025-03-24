@@ -8,6 +8,7 @@
 - API Gateway
 - DynamoDB
 - NextJS
+- MeiliSearch (For Bonus Task)
 
 ## How to run this project
 1. Clone this repository
