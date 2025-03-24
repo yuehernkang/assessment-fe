@@ -1,10 +1,5 @@
 # Write a README for this NextJS project
 
-## Folder Structure
-- `/fe`: Frontend (NextJS)
-- `/be`: Backend (Python CDK)
-- `/be-local`: For Bonus Task Dockerfile to run locally
-
 ## Architecture
 ![Architecture](./architecture.png)
 
